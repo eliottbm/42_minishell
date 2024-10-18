@@ -1,0 +1,10 @@
+a.out
+.vscode
+*.o
+*.a
+minishell
+notes
+.heredoc
+.history
+suppress_filter
+README.md
