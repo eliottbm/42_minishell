@@ -6,7 +6,7 @@
 Minishell is a project by 42 School, whose goal is to develop a minimalist shell inspired by Bash, capable of executing commands, managing redirections, pipes, and environment variables.
 It focuses on understanding processes, managing signals and file descriptors, and implementing internal commands.
 
-## Utilisation
+## Usage
 ```
 make
 # compiles the executable 'minishell'
